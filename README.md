@@ -10,7 +10,7 @@ The source code should provide a solid foundation in understanding how to work w
 our ISIS scanning components, while the running demo provides a quick means to 
 'sanity check' whether your scanner is visible to DotImage.
 
-This is the C# version. We also have a [VB.NET version](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisitionDemo_VB_x86) available
+This is the C# version. We also have a [VB.NET version](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisitionDemo_VB_x86) available.  
 
 ## IMPORTANT NOTES
 There is no x64 version. This is due to our licensing agreement for the Pixtran resources we ship with our SDK
