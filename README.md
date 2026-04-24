@@ -16,7 +16,6 @@ This is the C# version. We also have a [VB.NET version](https://github.com/Atala
 There is no x64 version. This is due to our licensing agreement for the Pixtran resources we ship with our SDK
 
 
-
 ## Licensing
 This demo assumes you have the Atalasoft SDK DotImage SDK along with our ISIS Scanning addon installed and licensed (or you can request a 30 day evaluation when installing/activating).  
 
@@ -50,7 +49,6 @@ Still, if you wish to use NuGet for the dependencies instead of relying on local
 
 ## Downloading source
 The sources can be downloaded for [c#](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisisionDemo_CS_x86/archive/refs/heads/main.zip) and [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisisionDemo_VB_x86/archive/refs/heads/main.zip)
-
 
 
 ## Cloning
